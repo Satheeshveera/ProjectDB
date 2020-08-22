@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter, Route } from "react-router-dom";
-import user from "./Majar/user";
-import login from "./Majar/login";
-import home from "./Majar/home";
+import user from "./Major/user";
+import login from "./Major/login";
+import home from "./Major/home";
 
 function App() {
   return (
